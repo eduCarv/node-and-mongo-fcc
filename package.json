@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "eduardo",
 	"description": "Um projeto que vai ajudar a entender melhor as tecnologias de node com express e mogoDB com mongoose",
+	"keywords": ["node", "express", "mongodb", "mongoose"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
